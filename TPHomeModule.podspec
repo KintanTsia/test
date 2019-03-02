@@ -8,7 +8,9 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TPHomeModule'
+  # 版本必须填
   s.version          = '0.1.0'
+  #描述必须
   s.summary          = 'A short description of TPHomeModule.'
 
 # This description is used to generate tags and improve search results.
@@ -27,9 +29,9 @@ TODO: Add long description of the pod here.
   s.author           = { 'LinJK' => 'hodi88780838@163.com' }
   s.source           = { :git => 'https://github.com/LinJK/TPHomeModule.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
-
+  #支持系统版本
   s.ios.deployment_target = '8.0'
-
+  #需要pod下来的文件,就是你想给别人pod的文件
   s.source_files = 'TPHomeModule/Classes/**/*'
   
   # s.resource_bundles = {

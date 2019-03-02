@@ -62,11 +62,11 @@
 		6762836022B6996E06899927 /* Pods-TPHomeModule_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TPHomeModule_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-TPHomeModule_Tests/Pods-TPHomeModule_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		A075D1EF8F29397DD01CE487 /* TPHomeModule.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = TPHomeModule.podspec; path = ../TPHomeModule.podspec; sourceTree = "<group>"; };
-		B43EB2B9CD4CCD0D5340A10D /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		A075D1EF8F29397DD01CE487 /* TPHomeModule.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = TPHomeModule.podspec; path = ../TPHomeModule.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		B43EB2B9CD4CCD0D5340A10D /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		C9805A4CAA9F643CDB98B4B9 /* Pods_TPHomeModule_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TPHomeModule_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE3602878D58E17722DE85D6 /* Pods-TPHomeModule_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TPHomeModule_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TPHomeModule_Tests/Pods-TPHomeModule_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		FD05A083B9E6D12FE5A6E9B9 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		FD05A083B9E6D12FE5A6E9B9 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
